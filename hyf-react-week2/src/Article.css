@@ -1,0 +1,57 @@
+.App{
+    margin: 15px 50px;
+}
+
+.AppHeader{
+    background-color: orange;
+    padding:2px 20px;
+    margin: 15px 50px;
+}
+.maintitle{
+    margin: 5px 10px;
+}
+
+.comment{
+    margin: 5px 10px;
+}
+
+.show{
+    margin: 5px 20px;
+}
+.ask{
+    margin: 5px 20px;
+}
+.job{
+    margin: 5px 20px;
+}
+.login{
+    margin: 5px 20px;
+}
+.title{
+
+    margin:15px 30px;
+}
+
+.detail{
+ margin: 15px 30px;
+}
+
+
+a{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+    color: #0a0000;
+    text-decoration: none;
+}
+.votearrow{
+    width: 10px;
+    height: 10px;
+    border: 0px;
+    background: no-repeat;
+}
+
+p{
+margin-top: 2px;
+font-size: 7pt;
+
+}
